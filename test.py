@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Second line")
+for i in range(1,10) : print(i)
